@@ -3,10 +3,10 @@
  
  Steps for Dockerizing:Steps for Dockerizing:<br/>
 Create a Separate Folder containing all the files <br/>
-"\t"	Python code<br/>
-"\t"	flask and UI file<br/>
-"\t"	data file<br/>
-"\t"	pickle file<br/>
+	Python code<br/>
+	flask and UI file<br/>
+	data file<br/>
+	pickle file<br/>
 Add Dockerfile and requirements.txt in the same Folder<br/>
 	Dockerfile contains - Downloading Image from docker hub<br/>
 		copying all files from local machine to image directory<br/>
