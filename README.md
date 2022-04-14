@@ -39,6 +39,8 @@ Eg. docker tag bank_note_authentication:latest sjanwalkar/bank_note_authenticati
 eg. docker push sjanwalkar/bank_note_authentication<br/>
 - Check Image in the docker hub.<br/>
 
+![image](https://user-images.githubusercontent.com/84242964/163308935-747fe986-0523-4fba-8598-d56d04bfabb6.png)
+
 <img width="1255" alt="image" src="https://user-images.githubusercontent.com/84242964/163308780-37ebc2b0-cf65-44d7-b04a-50a461f2cd59.png">
 
 
