@@ -2,7 +2,7 @@
  Creating a Bank note Authenticator app & Dockerizing it by uploading it's docker image in Docker Hub.
  
  Steps for Dockerizing:Steps for Dockerizing:<br/>
-Create a Separate Folder containing all the files <br/>
+Markup :1]Create a Separate Folder containing all the files <br/>
 	Python code<br/>
 	flask and UI file<br/>
 	data file<br/>
